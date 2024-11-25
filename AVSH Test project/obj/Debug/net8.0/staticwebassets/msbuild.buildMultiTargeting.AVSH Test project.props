@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AVSH Test project.props" />
+</Project>

@@ -1,0 +1,32 @@
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\bin\Debug\net8.0\appsettings.json
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\bin\Debug\net8.0\AVSH Test project.exe
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\bin\Debug\net8.0\AVSH Test project.deps.json
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\bin\Debug\net8.0\AVSH Test project.runtimeconfig.json
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\bin\Debug\net8.0\AVSH Test project.dll
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\bin\Debug\net8.0\AVSH Test project.pdb
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\obj\Debug\net8.0\AVSH Test project.csproj.AssemblyReference.cache
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\obj\Debug\net8.0\AVSH Test project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\obj\Debug\net8.0\AVSH Test project.AssemblyInfoInputs.cache
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\obj\Debug\net8.0\AVSH Test project.AssemblyInfo.cs
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\obj\Debug\net8.0\AVSH Test project.csproj.CoreCompileInputs.cache
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\obj\Debug\net8.0\AVSH Test project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\obj\Debug\net8.0\AVSH Test project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\obj\Debug\net8.0\staticwebassets\msbuild.AVSH Test project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\obj\Debug\net8.0\staticwebassets\msbuild.build.AVSH Test project.props
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AVSH Test project.props
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AVSH Test project.props
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\obj\Debug\net8.0\scopedcss\bundle\AVSH Test project.styles.css
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\obj\Debug\net8.0\AVSH Tes.612E80A6.Up2Date
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\obj\Debug\net8.0\AVSH Test project.dll
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\obj\Debug\net8.0\refint\AVSH Test project.dll
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\obj\Debug\net8.0\AVSH Test project.pdb
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\obj\Debug\net8.0\AVSH Test project.genruntimeconfig.cache
+C:\Users\DSGAVS\source\repos\AVSH Test project\AVSH Test project\obj\Debug\net8.0\ref\AVSH Test project.dll
